@@ -1,0 +1,5 @@
+This is a file that I created in my new branch. 
+
+The purpose of this file is to see what the hell is going on in this thing
+
+can I merge things no problem?
